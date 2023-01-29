@@ -11,3 +11,5 @@ this is where I track my voice changes monthly via lossless .wav files
 3. click "View Raw" to download or preview using your system or browser's audio player
 
 4. you can also download by pressing the three dots
+
+I might organize this page Soon™️ for better usability
