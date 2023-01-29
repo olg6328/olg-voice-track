@@ -4,7 +4,7 @@
 this is where I track my voice changes monthly via lossless .wav files
 
 ## how to use
-1. expand "View Code"
+1. expand "View Code" if you see it
 
 2. choose a file
 
