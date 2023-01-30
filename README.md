@@ -7,15 +7,19 @@ This is where I track my voice changes on T monthly via lossless .wav audio file
 
 ### month 02
 [Normal voice, Wasteful script](recordings\Month-02-2023-01-24_Wasteful.wav)
+
 [Normal voice, New Sponge script](recordings\Month-02-2023-01-24_New-Sponge.wav)
+
 [Highest pitch I can comfortably reach](recordings\Month-02-2023-01-24_TIRE-PRESSURE.wav)
 
 ### month 01
 [Normal voice, New Sponge script](recordings\Month-01-2022-12-25_New-Sponge.wav)
+
 [Highest pitch I can comfortably reach](recordings\Month-01-2022-12-25_TIRE-PRESSURE.wav)
 
 ### month 00
 [Normal voice, New Sponge script](recordings\Month-01-2022-12-25_New-Sponge.wav)
+
 [Highest pitch I can comfortably reach](recordings\Month-01-2022-12-25_TIRE-PRESSURE.wav)
 
 ## how to use recordings
@@ -27,8 +31,8 @@ This is where I track my voice changes on T monthly via lossless .wav audio file
 My general technique is to breathe in and then project my voice through my belly with my throat as open as possible so that it doesn't feel like I'm straining it. It doesn't only take "muscle mechanics" as I call it but also hitting the right pitch range, and for me it really took a while to get both right. I started in July 2022 (I wasn't on T yet) and I still sometimes forget to speak from my diaphragm lol. I'm not yet at the point where it feels subconscious for me so I still practice whenever I can. 
 
 This is my detailed path:
-I started with this link: http://www.oulgbtq.org/your-voice.html.
-It covers the general tips but I needed some interactive help so I downloaded the EvaM app. 
+
+I started with this link: http://www.oulgbtq.org/your-voice.html. It covers the general tips but I needed some interactive help so I downloaded the EvaM app. 
 
 EvaM has a free pitch tracker but its video content and self-guided exercises are paid, so I understand this app is not for everyone. If you can find free video tutorials then that's great! 
 
@@ -49,6 +53,7 @@ Voice care tip: if you feel like you're having a hard time keeping your voice lo
 > The fact that charging takes an hour and a half from empty to full is also unacceptable at this price point, when other companies are churning out mid-rangers costing half the price, which take 20 minutes to charge much larger batteries. Oh, and those mid-rangers also feature the fast charging brick in the box, a "wasteful" approach in Samsung's view, which chose to save the environment by making some extra cash off of charger sales. Because that obviously makes sense, our sarcasm-filled selves feel the need to note.
 >
 > Seriously, there's no overstating this point: battery life on the Flip3 sucks, charging times suck too, and the fact that you have wireless charging as an option is nice to see but expected at this price point, and it doesn't really help alleviate the aforementioned issues in any way. Not to mention that at 10W, that will take hours to fully replenish the battery when it's dead.
+
 Source: https://m.gsmarena.com/samsung_galaxy_z_flip3_long_term-review-2418p5.php
 
 ### New Sponge
@@ -60,4 +65,5 @@ Source: https://m.gsmarena.com/samsung_galaxy_z_flip3_long_term-review-2418p5.ph
 > New sponge also cleans showers! 
 > Ha, ha! That tile looks good as new! 
 > But best of all, new sponge can make any toilet sparkle! 
+
 Source: https://www.youtube.com/watch?v=NNL-Ga4IYVE
