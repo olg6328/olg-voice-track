@@ -6,21 +6,21 @@ This is where I track my voice changes on T monthly via lossless .wav audio file
 ## recordings (latest month first)
 
 ### month 02
-[Normal voice, Wasteful script](recordings\Month-02-2023-01-24_Wasteful.wav)
+[Normal voice, Wasteful script](recordings/Month-02-2023-01-23_Wasteful.wav)
 
-[Normal voice, New Sponge script](recordings\Month-02-2023-01-24_New-Sponge.wav)
+[Normal voice, New Sponge script](recordings/Month-02-2023-01-24_New-Sponge.wav)
 
-[Highest pitch I can comfortably reach](recordings\Month-02-2023-01-24_TIRE-PRESSURE.wav)
+[Highest pitch I can comfortably reach](recordings/Month-02-2023-01-24_TIRE-PRESSURE.wav)
 
 ### month 01
-[Normal voice, New Sponge script](recordings\Month-01-2022-12-25_New-Sponge.wav)
+[Normal voice, New Sponge script](recordings/Month-01-2022-12-25_New-Sponge.wav)
 
-[Highest pitch I can comfortably reach](recordings\Month-01-2022-12-25_TIRE-PRESSURE.wav)
+[Highest pitch I can comfortably reach](recordings/Month-01-2022-12-25_TIRE-PRESSURE.wav)
 
 ### month 00
-[Normal voice, New Sponge script](recordings\Month-01-2022-12-25_New-Sponge.wav)
+[Normal voice, New Sponge script](recordings/Month-00-2022-11-24_New-Sponge.wav)
 
-[Highest pitch I can comfortably reach](recordings\Month-01-2022-12-25_TIRE-PRESSURE.wav)
+[Highest pitch I can comfortably reach](recordings/Month-00-2022-11-23_TIRE-PRESSURE.wav)
 
 ## how to use recordings
 1. Choose a recording
