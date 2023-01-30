@@ -58,12 +58,19 @@ Source: https://m.gsmarena.com/samsung_galaxy_z_flip3_long_term-review-2418p5.ph
 
 ### New Sponge
 > Oh, no! Your bathroom is a disaster. Get it cleaned up fast with...the new sponge! 
+>
 > Household chores are a snap with new sponge. 
+>
 > It cleans sinks. 
+>
 > Just look at that shine! 
+>
 > New sponge cuts through even the toughest grime and grit. 
+>
 > New sponge also cleans showers! 
+>
 > Ha, ha! That tile looks good as new! 
+>
 > But best of all, new sponge can make any toilet sparkle! 
 
 Source: https://www.youtube.com/watch?v=NNL-Ga4IYVE
