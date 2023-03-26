@@ -1,7 +1,7 @@
 # olg-voice-track
 
 ## what's this
-This is where I track my voice changes on T monthly via lossless .wav audio files!
+This is where I track my voice changes on T monthly via lossless .wav audio files! Recordings are taken in an acoustically conducive environment (i.e., the bathroom) using the Dolby One app, which admittedly has a somewhat aggressive de-essing algorithm.
 
 ## recordings (latest month first)
 
@@ -97,3 +97,7 @@ Source: https://m.gsmarena.com/samsung_galaxy_z_flip3_long_term-review-2418p5.ph
 
 ### X months on T
 > Hi, this is my voice [X] months into T, and if anyone is wondering, the T means Toblerone.
+
+## feel free to use these recordings for research purposes
+
+This page and its files are in public domain to encourage research on individuals on testosterone HRT and to increase overall representation of transgender individuals in scientific research. Researchers just have to deal with my utterly random sense of humor, I guess.
