@@ -5,6 +5,17 @@ This is where I track my voice changes on T monthly via lossless .wav audio file
 
 ## recordings (latest month first)
 
+### month 04
+[Normal voice, New Sponge script](recordings/Month-04-2023-03-26_New-Sponge.wav)
+
+[Highest pitch I can comfortably reach](recordings/Month-04-2023-03-26_TIRE-PRESSURE.wav)
+
+[Normal voice, Wasteful script](recordings/Month-04-2023-03-26_Wasteful.wav)
+
+[Normal voice, X months on T](recordings/Month-04-2023-03-26_X-months-on-T.wav)
+
+[Just screaming](recordings/Month-04-2023-03-26_AAAAA.wav)
+
 ### month 03
 [Normal voice, New Sponge script](recordings/Month-03-2023-02-24_New-Sponge.wav)
 
