@@ -5,7 +5,20 @@ This is where I track my voice changes on T monthly via lossless .wav audio file
 
 ## recordings (latest month first)
 
-### month 04
+Recordings are also available in this [Google Drive folder](https://drive.google.com/drive/folders/18kPFlfDWt7Ut-0sDeM3kdsZOM7qBHvsE).
+
+### year 0, month 05
+[Normal voice, New Sponge script](recordings/Month-05-2023-04-25_New-Sponge.wav)
+
+[Highest pitch I can comfortably reach](recordings/Month-05-2023-04-25_TIRE-PRESSURE.wav)
+
+[Normal voice, Wasteful script](recordings/Month-05-2023-04-25_Wasteful.wav)
+
+[Normal voice, X months on T](recordings/Month-05-2023-04-25_X-months-on-T.wav)
+
+[Just screaming](recordings/Month-05-2023-04-25_AAAAA.wav)
+
+### year 0, month 04
 [Normal voice, New Sponge script](recordings/Month-04-2023-03-26_New-Sponge.wav)
 
 [Highest pitch I can comfortably reach](recordings/Month-04-2023-03-26_TIRE-PRESSURE.wav)
@@ -16,7 +29,7 @@ This is where I track my voice changes on T monthly via lossless .wav audio file
 
 [Just screaming](recordings/Month-04-2023-03-26_AAAAA.wav)
 
-### month 03
+### year 0, month 03
 [Normal voice, New Sponge script](recordings/Month-03-2023-02-24_New-Sponge.wav)
 
 [Highest pitch I can comfortably reach](recordings/Month-03-2023-02-24_TIRE-PRESSURE.wav)
@@ -25,19 +38,19 @@ This is where I track my voice changes on T monthly via lossless .wav audio file
 
 [Normal voice, X months on T](recordings/Month-03-2023-02-24_X-months-on-T.wav)
 
-### month 02
+### year 0, month 02
 [Normal voice, New Sponge script](recordings/Month-02-2023-01-24_New-Sponge.wav)
 
 [Highest pitch I can comfortably reach](recordings/Month-02-2023-01-24_TIRE-PRESSURE.wav)
 
 [Normal voice, Wasteful script](recordings/Month-02-2023-01-23_Wasteful.wav)
 
-### month 01
+### year 0, month 01
 [Normal voice, New Sponge script](recordings/Month-01-2022-12-25_New-Sponge.wav)
 
 [Highest pitch I can comfortably reach](recordings/Month-01-2022-12-25_TIRE-PRESSURE.wav)
 
-### month 00
+### year 0, month 00
 [Normal voice, New Sponge script](recordings/Month-00-2022-11-24_New-Sponge.wav)
 
 [Highest pitch I can comfortably reach](recordings/Month-00-2022-11-23_TIRE-PRESSURE.wav)
@@ -70,7 +83,7 @@ Voice care tip: if you feel like you're having a hard time keeping your voice lo
 ## scripts used
 
 ### New Sponge
-> Oh, no! Your bathroom is a disaster. Get it cleaned up fast with...the new sponge! 
+> Oh, no! Your bathroom is a disaster. Get it cleaned up fast with... the new sponge! 
 >
 > Household chores are a snap with new sponge. 
 >
@@ -86,14 +99,14 @@ Voice care tip: if you feel like you're having a hard time keeping your voice lo
 >
 > But best of all, new sponge can make any toilet sparkle! 
 
-Source: https://www.youtube.com/watch?v=NNL-Ga4IYVE
+[Source](https://www.youtube.com/watch?v=NNL-Ga4IYVE)
 
 ### Wasteful
 > The fact that charging takes an hour and a half from empty to full is also unacceptable at this price point, when other companies are churning out mid-rangers costing half the price, which take 20 minutes to charge much larger batteries. Oh, and those mid-rangers also feature the fast charging brick in the box, a "wasteful" approach in Samsung's view, which chose to save the environment by making some extra cash off of charger sales. Because that obviously makes sense, our sarcasm-filled selves feel the need to note.
 >
 > Seriously, there's no overstating this point: battery life on the Flip3 sucks, charging times suck too, and the fact that you have wireless charging as an option is nice to see but expected at this price point, and it doesn't really help alleviate the issues in any way. Not to mention that at 10W, that will take hours to fully replenish the battery when it's dead.
 
-Source: https://m.gsmarena.com/samsung_galaxy_z_flip3_long_term-review-2418p5.php
+[Source](https://m.gsmarena.com/samsung_galaxy_z_flip3_long_term-review-2418p5.php)
 
 ### X months on T
 > Hi, this is my voice [X] months into T, and if anyone is wondering, the T means Toblerone.
