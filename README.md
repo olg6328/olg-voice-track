@@ -7,6 +7,17 @@ This is where I track my voice changes on T monthly via lossless .wav audio file
 
 Recordings are also available in this [Google Drive folder](https://drive.google.com/drive/folders/18kPFlfDWt7Ut-0sDeM3kdsZOM7qBHvsE).
 
+### year 0, month 07
+[Normal voice, New Sponge script](recordings/Month-07-2023-06-28_New-Sponge.wav)
+
+[Highest pitch I can comfortably reach](recordings/Month-07-2023-06-28_TIRE-PRESSURE.wav)
+
+[Normal voice, Wasteful script](recordings/Month-07-2023-06-28_Wasteful.wav)
+
+[Normal voice, X months on T](recordings/Month-07-2023-06-28_X-months-on-T.wav)
+
+[Just screaming](recordings/Month-07-2023-06-28_AAAAA.wav)
+
 ### year 0, month 06
 [Normal voice, New Sponge script](recordings/Month-06-2023-05-28_New-Sponge.wav)
 
