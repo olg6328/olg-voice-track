@@ -105,7 +105,9 @@ Recordings are also available in this [Google Drive folder](https://drive.google
 3. You can also download a recording by pressing the three dots
 
 ## voice training tips
-My general technique is to breathe in and then project my voice through my belly with my throat as open as possible so that it doesn't feel like I'm straining it. It doesn't only take "muscle mechanics" as I call it but also hitting the right pitch range, and for me it really took a while to get both right. I started in July 2022 (I wasn't on T yet) and I still sometimes forget to speak from my diaphragm lol. I'm not yet at the point where it feels subconscious for me so I still practice whenever I can. 
+*(First written in October 2021; for reference, I started T in November 2022)*
+
+My general technique is to breathe in and then project my voice through my belly with my throat as open as possible so that it doesn't feel like I'm straining it. It doesn't only take "muscle mechanics" as I call it but also hitting the right pitch range, and for me it really took a while to get both right. I started in July 2021 (I wasn't on T yet) and I still sometimes forget to speak from my diaphragm lol. I'm not yet at the point where it feels subconscious for me so I still practice whenever I can. 
 
 This is my detailed path:
 
