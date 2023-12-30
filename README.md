@@ -210,3 +210,7 @@ Voice care tip: if you feel like you're having a hard time keeping your voice lo
 ## feel free to use these recordings for research purposes
 
 This page and its files are in public domain to encourage research on individuals on testosterone HRT and to increase overall representation of transgender individuals in scientific research. Researchers just have to deal with my utterly random sense of humor, I guess.
+
+## see also
+
+[olg's WPATH Hormone Effect Timeline (SOC7)](https://docs.google.com/spreadsheets/d/1rLOsLhgdvxtYT51-r7sidGBA7Xu8tFz5hc8bygtxCI4/edit?usp=sharing) - Comments on my personal experience in relation to what is expected of people on T. Content warning for mentions of genital parts and menstruation.
