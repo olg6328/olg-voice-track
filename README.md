@@ -189,14 +189,20 @@ Voice care tip: if you feel like you're having a hard time keeping your voice lo
 >
 > But best of all, new sponge can make any toilet sparkle! 
 
-[Source](https://www.youtube.com/watch?v=NNL-Ga4IYVE)
+🔗 [Source](https://www.youtube.com/watch?v=NNL-Ga4IYVE)
+
+### Highest pitch I can comfortably reach
+
+> TIRE PRESSURE
+
+🔗 [Source](https://youtu.be/wRecnDk_m_U?t=57)
 
 ### Wasteful
 > The fact that charging takes an hour and a half from empty to full is also unacceptable at this price point, when other companies are churning out mid-rangers costing half the price, which take 20 minutes to charge much larger batteries. Oh, and those mid-rangers also feature the fast charging brick in the box, a "wasteful" approach in Samsung's view, which chose to save the environment by making some extra cash off of charger sales. Because that obviously makes sense, our sarcasm-filled selves feel the need to note.
 >
 > Seriously, there's no overstating this point: battery life on the Flip3 sucks, charging times suck too, and the fact that you have wireless charging as an option is nice to see but expected at this price point, and it doesn't really help alleviate the issues in any way. Not to mention that at 10W, that will take hours to fully replenish the battery when it's dead.
 
-[Source](https://m.gsmarena.com/samsung_galaxy_z_flip3_long_term-review-2418p5.php)
+🔗 [Source](https://m.gsmarena.com/samsung_galaxy_z_flip3_long_term-review-2418p5.php)
 
 ### X months on T
 > Hi, this is my voice [X] months into T, and if anyone is wondering, the T means Toblerone.
