@@ -1,7 +1,7 @@
 # olg-voice-track
 
 ## what's this
-This is where I track my voice changes on T monthly via lossless .wav audio files! Recordings are taken in an acoustically conducive environment (i.e., the bathroom) using the Dolby One app, which admittedly has a somewhat aggressive de-essing algorithm.
+This is where I track my voice changes on T monthly via lossless .wav audio files! Recordings are taken in an acoustically conducive environment (i.e., the bathroom) using the Dolby On recorder app. Its default "Dolby On" setting which intends to boost voices has a somewhat aggressive de-essing algorithm. I still use the app so that previous and current recordings can be more comparable regardless of which phone I use to record myself.
 
 ## recordings (latest month first)
 
