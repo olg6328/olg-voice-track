@@ -8,7 +8,7 @@ This is where I track my voice changes on testosterone (T) monthly via lossless 
 
 I used to voice train to speak with a lower voice, but I found that it took me a lot of physical effort to pull it off. I decided to go on HRT to eliminate voice dysphoria.
 
-My voice visibly got lower around the [fourth month](https://github.com/olg6328/olg-voice-track/edit/main/README.md#year-0-month-04-march-2023) with minimal diaphragm effort. T also helps strengthen muscles, including my diaphragm during the first three months so that I can pull off a lower voice with less effort than I used to without T. My new voice became stable after the fourth month, but I'm still recording because I'm wondering if my voice can get any lower. Not that I'm unsatisfied with my new voice; in fact I love it! 
+My voice visibly got lower around the [fourth month](https://github.com/olg6328/olg-voice-track?tab=readme-ov-file#year-0-month-04-march-2023) with minimal diaphragm effort. T also helps strengthen muscles, including my diaphragm during the first three months so that I can pull off a lower voice with less effort than I used to without T. My new voice became stable after the fourth month, but I'm still recording because I'm wondering if my voice can get any lower. Not that I'm unsatisfied with my new voice; in fact I love it! 
 
 I take full-dose T through injections with testosterone undecanoate every ~~14~~ ~~10~~ 12 weeks (it took guesswork to find out the optimal interval for me). As always, your voice change experience may vary depending on your medical background, dosage, and route of administration. 
 
@@ -17,6 +17,12 @@ Let it be said that my HRT is supervised by a physician and I take blood tests r
 ## recordings (latest month first)
 
 Recordings are also available in this [Google Drive folder](https://drive.google.com/drive/folders/18kPFlfDWt7Ut-0sDeM3kdsZOM7qBHvsE).
+
+### how to use recordings
+
+1. Choose a recording
+2. Click "View Raw" to download or preview using your system's or browser's audio player
+3. You can also download a recording by pressing the three dots
 
 ### year 1, month 03 (February 2024)
 
@@ -194,19 +200,13 @@ Recordings are also available in this [Google Drive folder](https://drive.google
 
 [Highest pitch I can comfortably reach](recordings/Month-00-2022-11-23_TIRE-PRESSURE.wav)
 
-## how to use recordings
-
-1. Choose a recording
-2. Click "View Raw" to download or preview using your system's or browser's audio player
-3. You can also download a recording by pressing the three dots
-
 ## voice training tips
 
 *(First written in October 2021; for reference, I started T in November 2022)*
 
-My general technique is to breathe in and then project my voice through my belly with my throat as open as possible so that it doesn't feel like I'm straining it. It doesn't only take "muscle mechanics" as I call it but also hitting the right pitch range, and for me it really took a while to get both right. I started in July 2021 (I wasn't on T yet) and I still sometimes forgot to speak from my diaphragm. I wasn't at the point where it felt subconscious for me so I still practiced whenever I can. 
+My general technique is to breathe in and then project my voice through my belly with my throat as open as possible so that it doesn't feel like I'm straining it. It doesn't only take "muscle mechanics" as I call it but also hitting the right pitch range, and for me it really took a while to get both right. I started in July 2021 (I wasn't on T yet) and I still sometimes forgot to speak from my diaphragm. I wasn't at the point where it felt subconscious for me so I still practiced whenever I can, until I gave up on December 2021 because speaking from my diaphragm daily took me too much effort.
 
-This is my detailed path:
+This was my detailed path:
 
 I started with this link: http://www.oulgbtq.org/your-voice.html. It covers the general tips:
 
@@ -224,7 +224,7 @@ The app's instructor recommends taking short practices daily instead of bulk tra
 
 The app's training process went like this: 
 * Breathing exercises (breathe through your belly!)
-* Pitch tuning exercises (I had a hard time with this because I didn't know how E3, C3 and A2 pitches sounded like when I produced it. This is where the free pitch tracker is useful: it lets me know that I'm actually humming at E3 or C3 rather than the higher pitches.) 
+* Pitch tuning exercises such as saying "ooooo" and "aaaaa" at certain pitches (I had a hard time with this because I didn't know how E3, C3 and A2 pitches sounded like when I produced it. This is where the free pitch tracker is useful: it lets me know that I'm actually humming at E3 or C3 rather than the higher pitches.) 
 * Humming exercises, and then speaking words and phrases with the breathing + pitch techniques 
 
 The muscle mechanics and pitch really go hand in hand, you can't reach lower pitches comfortably without "sourcing" your voice from your belly or chest. Belly is ideal but chest is a good start; it took me a while to know the difference and I wouldn't have known if I hadn't went for a kinda formal voice training.
