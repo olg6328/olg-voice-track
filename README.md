@@ -32,6 +32,18 @@ Let it be said that my HRT is supervised by a physician and I take blood tests r
 
 The latest month is listed first. Recordings are also available in this [Google Drive folder](https://drive.google.com/drive/folders/18kPFlfDWt7Ut-0sDeM3kdsZOM7qBHvsE).
 
+### year 1, month 05 (April 2024)
+
+[Normal voice, New Sponge script](recordings/Month-17-2024-04-24_New-Sponge.wav)
+
+[Highest pitch I can comfortably reach](recordings/Month-17-2024-04-24_TIRE-PRESSURE.wav)
+
+[Normal voice, Wasteful script](recordings/Month-17-2024-04-24_Wasteful.wav)
+
+[Normal voice, X months on T](recordings/Month-17-2024-04-24_X-months-on-T.wav)
+
+[Just screaming](recordings/Month-17-2024-04-24_AAAAA.wav)
+
 ### year 1, month 04 (March 2024)
 
 [Normal voice, New Sponge script](recordings/Month-16-2024-03-24_New-Sponge.wav)
@@ -483,7 +495,7 @@ Just me trying to sing "Even the Nights are Better" by Air Supply. Not quite pro
 This is the standard voice training script that I used to read so that the recordings can be more comparable. It comes from <http://www.oulgbtq.org/your-voice.html> and I deliberately chose this to remind myself of tips to make voice training easier. In the first recordings I read all three paragraphs, but in the later recordings I just read the first one.
 
 > To deepen your voice, you'll want to try and lower your pitch. To do this, relax your throat as much as possible, to avoid tightening your vocal cords. Moisten your mouth and throat, and hold your chin up. Swallow before you speak, and speak slowly, lowering your voice at the beginning of sentences and trying to maintain that pitch. If you find yourself speaking quickly, you'll probably also find your pitch rising. Try not to raise your pitch at the end of your sentences, but keep your tone more monotonous. Emphasise sounds that allow you to deepen your voice; for example, lengthening your vowels allows you to make them sound deeper. Experiment with what you find easiest to pronounce with your deeper voice and play to those strengths.
->  
+>
 > When trying to deepen your voice, you quite literally want to speak from as low down as possible. Pay attention to where you feel and hear your voice emanating from; it'll probably be your throat. Your pitch is highest when you speak at the top of your throat, or when you use your 'head voice'. Speaking from your chest will produce a deeper sound, although it might be airy and a little soft. Ideally, you want to learn how to speak from what feels like your gut. To do this, you'll have to project your voice, which comes from breathing from your diaphragm and reaching down to your belly before you speak. This process of learning to speak from your diaphragm takes a lot of practice, and initially you probably won't hear much of a difference, but in time, you'll be able to make your voice deeper and deeper. It might be frustrating, but take baby steps. If you try to make drastic changes to your voice, you'll risk straining your vocal cords. Avoid speaking with a growl or rasp, as although this produces a deeper throat voice, it can damage your vocal cords and you'll end up with a hoarse voice. It's also more difficult to project when you're speaking from your throat.
 >
 > Start out by using your deep voice for short periods of time, and gradually build them up. It'll take time, but eventually you'll be able to lower your voice quite substantially, just from practice.
