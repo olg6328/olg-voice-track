@@ -32,6 +32,18 @@ Let it be said that my HRT is supervised by a physician and I take blood tests r
 
 The latest month is listed first. Recordings are also available in this [Google Drive folder](https://drive.google.com/drive/folders/18kPFlfDWt7Ut-0sDeM3kdsZOM7qBHvsE).
 
+### year 1, month 08 (July 2024)
+
+[Normal voice, New Sponge script](recordings/Month-20-2024-07-27_New-Sponge.wav)
+
+[Highest pitch I can comfortably reach](recordings/Month-20-2024-07-27_TIRE-PRESSURE.wav)
+
+[Normal voice, Wasteful script](recordings/Month-20-2024-07-27_Wasteful.wav)
+
+[Normal voice, X months on T](recordings/Month-20-2024-07-27_X-months-on-T.wav)
+
+[Just screaming](recordings/Month-20-2024-07-27_AAAAA.wav)
+
 ### year 1, month 07 (June 2024)
 
 [Normal voice, New Sponge script](recordings/Month-19-2024-06-25_New-Sponge.wav)
