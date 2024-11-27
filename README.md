@@ -2,7 +2,7 @@
 
 ## what's this
 
-This is where I track my voice changes on testosterone (T) monthly via lossless .wav audio files! Recordings are taken in an acoustically conducive environment (i.e., the bathroom) using the Dolby On recorder app. Its default "Dolby On" setting which intends to minimize background noise and boost voices had a somewhat aggressive de-essing algorithm, so the S sounds might sound a bit off, but this seems to have improved somewhere around August 2024. I use this app regularly so that previous and current recordings can be more comparable regardless of which phone I use to record myself.
+This is where I tracked my voice changes on testosterone (T) every month for two years (2022 to 2024) via lossless .wav audio files! Recordings were taken in an acoustically conducive environment (i.e., the bathroom) using the Dolby On recorder app. Its default "Dolby On" setting which intends to minimize background noise and boost voices had a somewhat aggressive de-essing algorithm, so the S sounds might sound a bit off, but this seems to have improved somewhere around August 2024. I used this app regularly so that previous and current recordings can be more comparable regardless of which phone I used to record myself.
 
 I also include recordings from the time when I used to voice train while I wasn't on T yet, so that those who are unwilling or unable to go on T can have an idea of how low the voice can be with roughly five months of voice training.
 
@@ -16,7 +16,7 @@ I also include recordings from the time when I used to voice train while I wasn'
 
 I used to voice train to speak with a lower voice. While I was able to [lower my voice](https://github.com/olg6328/olg-voice-track#trained-voice) compared to my [pre-transition voice](https://github.com/olg6328/olg-voice-track#pre-transition-voice), I found that it took me a lot of conscious muscle effort to pull it off and maintain that lower pitch. Sometimes I spoke from my belly and diaphragm as I should and sometimes I failed to do it because of allergies, stress, or something else, so my voice fell back to its pre-transition sound. In my experience, voice training alone gave me mixed results in terms of how I sounded like, but it was still worth trying so that I could train my muscles to be able to speak at a lower pitch.
 
-I decided to go on HRT to eliminate voice dysphoria. My voice visibly got lower around the [fourth month on T](https://github.com/olg6328/olg-voice-track#year-0-month-04-march-2023) with minimal diaphragm effort. T also helps strengthen muscles, including my diaphragm during the first three months ([December 2022](https://github.com/olg6328/olg-voice-track#year-0-month-01-december-2022), [January 2023](https://github.com/olg6328/olg-voice-track#year-0-month-02-january-2023), [February 2023](https://github.com/olg6328/olg-voice-track#year-0-month-03-february-2023)) so that I can pull off a lower voice with less effort than I used to without T. My new voice became stable after the fourth month, but I'm still recording because I'm wondering if my voice can get any lower. Not that I'm unsatisfied with my new voice; in fact, I love it!
+I decided to go on HRT to eliminate voice dysphoria. My voice visibly got lower around the [fourth month on T](https://github.com/olg6328/olg-voice-track#year-0-month-04-march-2023) with minimal diaphragm effort. T also helps strengthen muscles, including my diaphragm during the first three months ([December 2022](https://github.com/olg6328/olg-voice-track#year-0-month-01-december-2022), [January 2023](https://github.com/olg6328/olg-voice-track#year-0-month-02-january-2023), [February 2023](https://github.com/olg6328/olg-voice-track#year-0-month-03-february-2023)) so that I can pull off a lower voice with less effort than I used to without T. My new voice became stable after the fourth month, but I kept on recording for two years because I was wondering if my voice could get any lower. Not that I'm unsatisfied with my new voice; in fact, I love it! (Update after two years: It didn't get any lower, but those who've heard my pre-transition voice in real life said that my voice is much deeper now.)
 
 I take full-dose T through injections with testosterone undecanoate every ~~14~~ ~~10~~ 12 weeks (it took guesswork to find out the optimal interval for me). As always, your voice change experience may vary depending on your medical background, dosage, and route of administration.
 
@@ -31,6 +31,18 @@ Let it be said that my HRT is supervised by a physician and I take blood tests r
 ## post-T voice change recordings
 
 The latest month is listed first. Recordings are also available in this [Google Drive folder](https://drive.google.com/drive/folders/18kPFlfDWt7Ut-0sDeM3kdsZOM7qBHvsE).
+
+### year 2, month 00 (November 2024)
+
+[Normal voice, New Sponge script](recordings/Month-24-2024-11-27_New-Sponge.wav)
+
+[Highest pitch I can comfortably reach](recordings/Month-24-2024-11-27_TIRE-PRESSURE.wav)
+
+[Normal voice, Wasteful script](recordings/Month-24-2024-11-27_Wasteful.wav)
+
+[Normal voice, X months on T](recordings/Month-24-2024-11-27_X-months-on-T.wav)
+
+[Just screaming](recordings/Month-24-2024-11-27_AAAAA.wav)
 
 ### year 1, month 11 (October 2024)
 
